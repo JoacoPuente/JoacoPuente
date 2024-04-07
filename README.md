@@ -49,6 +49,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/sass/CC6699" height="45" alt="sass logo"  />
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="45" alt="materialui logo"  />
 </div>
 
